@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//vcl
 using namespace std;
 int ktsnt(int a)
 {
